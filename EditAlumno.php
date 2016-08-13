@@ -6,6 +6,6 @@
 	
 	mysqli_close($conexion);
 
-	echo "Se actulizo el alumno";
+	echo "Se actualizo el alumno";
 		
 ?>
